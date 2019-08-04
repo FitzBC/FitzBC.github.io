@@ -59,7 +59,8 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: FitzBC
+duoshuo_share: false
+# disqus_username: FitzBC
 
 # Netease settings
 netease_comment: false
